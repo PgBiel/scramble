@@ -1,0 +1,16 @@
+{
+  "name": "shuffle",
+  "version": "0.0.1",
+  "description": "Shuffle text",
+  "main": "",
+  "repository": "https://github.com/PgBiel/shuffle.git",
+  "author": "PgBiel",
+  "license": "MIT",
+  "scripts": {
+    "build": "browserify -t [ babelify --presets [ es2015 react ] ] jsx/index.jsx -o js/index.js --extension=.jsx"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0"
+  }
+}
