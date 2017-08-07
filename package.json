@@ -1,9 +1,9 @@
 {
-  "name": "shuffle",
+  "name": "scramble",
   "version": "0.0.1",
-  "description": "Shuffle text",
+  "description": "Scramble letters",
   "main": "",
-  "repository": "https://github.com/PgBiel/shuffle.git",
+  "repository": "https://github.com/PgBiel/scramble.git",
   "author": "PgBiel",
   "license": "MIT",
   "scripts": {
